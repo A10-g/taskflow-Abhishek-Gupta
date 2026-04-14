@@ -1,0 +1,4 @@
+com\taskflow\backend\project\ProjectSecurityIntegrationTest.class
+com\taskflow\backend\task\TaskServiceAuthorizationTest.class
+com\taskflow\backend\auth\AuthControllerWebMvcTest.class
+com\taskflow\backend\TaskflowApplicationTests.class

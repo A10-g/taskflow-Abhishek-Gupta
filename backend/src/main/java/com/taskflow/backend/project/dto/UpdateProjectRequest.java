@@ -1,0 +1,12 @@
+package com.taskflow.backend.project.dto;
+
+import jakarta.validation.constraints.Size;
+
+public record UpdateProjectRequest(
+        @Size(min = 1, max = 255, message = "must be between 1 and 255 characters")
+        String name,
+
+        @Size(max = 2000, message = "must be at most 2000 characters")
+        String description
+) {
+}
