@@ -1,9 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: db/changelog/V1__create_users.sql
-  - include:
-      file: db/changelog/V2__create_projects.sql
-  - include:
-      file: db/changelog/V3__create_tasks.sql
-  - include:
-      file: db/changelog/V4__seed_data.sql
