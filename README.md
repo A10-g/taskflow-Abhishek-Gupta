@@ -74,7 +74,7 @@ The current tests are focused and useful, but they are not yet full Testcontaine
 
 ```bash
 git clone https://github.com/A10-g/taskflow-Abhishek-Gupta.git
-cd Greening-India-Assingment
+cd taskflow-Abhishek-Gupta
 cp .env.example .env
 docker compose up --build
 ```
