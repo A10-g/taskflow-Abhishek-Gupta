@@ -73,7 +73,7 @@ The current tests are focused and useful, but they are not yet full Testcontaine
 ### Commands
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/A10-g/taskflow-Abhishek-Gupta.git
 cd Greening-India-Assingment
 cp .env.example .env
 docker compose up --build
